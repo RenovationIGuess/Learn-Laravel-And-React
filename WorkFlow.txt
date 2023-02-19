@@ -1,0 +1,13 @@
+Commands:
+Laravel:
+- laravel new app__name
+- php artisan migrate: migrate the database that we config in .env file
+- php artisan serve: run the server
+- php artisan make:controller directory:
+- php artisan make:request request__name:
+- php artisan make:controller directory --model=User --requests --resource --api
+- php artisan make:controller directory --model=User --requests --resource
+- php artisan make:resource file_name?
+- php artisan db:seed: create random data
+React:
+- npm create vite 
